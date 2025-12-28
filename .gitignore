@@ -1,0 +1,22 @@
+# Ignore the dataset (Large files)
+*.csv
+*.zip
+*.json
+*.xlsx
+
+# Python environment/cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDE settings
+.vscode/
+.idea/
