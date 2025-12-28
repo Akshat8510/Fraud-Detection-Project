@@ -1,0 +1,15 @@
+# Data Processing
+pandas==2.0.3
+numpy==1.24.3
+
+# Visualization
+matplotlib==3.10.1
+seaborn
+
+# Machine Learning & Pipelines
+scikit-learn==1.3.0
+xgboost
+imbalanced-learn
+
+# Model Export
+joblib==1.5.2
